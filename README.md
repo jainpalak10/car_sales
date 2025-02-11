@@ -36,7 +36,7 @@ Key Insights from the Dashboard
 
 (c)✅ YTD Avg Price: 28.09K, showing a slight decline (-0.79%).
 
-4. Trends & Patterns
+2. Trends & Patterns
    
 (a)📈 Sales Weekly Trend: Peaks at 14.9M, indicating seasonal sales fluctuations.
 
@@ -45,7 +45,7 @@ Key Insights from the Dashboard
 (c)🎨 Most Popular Colors: Pale White & Black lead, with Red being the least preferred.
 
 
-7. Dealer & Regional Sales
+3. Dealer & Regional Sales
    
 (a)🌎 Top Regions: Austin, Greenville, and Scottsdale are key markets.
 
@@ -53,8 +53,13 @@ Key Insights from the Dashboard
 
 
 Final Conclusion
-(a)🔹 The car sales industry is experiencing positive growth, with an increase in sales volume and revenue.
-(b)🔹 SUVs & Sedans continue to be market leaders, indicating customer preference for family and utility vehicles.
-(c)🔹 Chevrolet, Chrysler, and Cadillac contribute significantly to total revenue.
-(d)🔹 Regional performance suggests focusing on high-performing areas like Austin & Greenville for expansion.
-(e)🔹 A slight decline in avg. price (-0.79%) could indicate competitive pricing or discounts.
+
+🔹 The car sales industry is experiencing positive growth, with an increase in sales volume and revenue.
+
+🔹 SUVs & Sedans continue to be market leaders, indicating customer preference for family and utility vehicles.
+
+🔹 Chevrolet, Chrysler, and Cadillac contribute significantly to total revenue.
+
+🔹 Regional performance suggests focusing on high-performing areas like Austin & Greenville for expansion.
+
+🔹 A slight decline in avg. price (-0.79%) could indicate competitive pricing or discounts.
