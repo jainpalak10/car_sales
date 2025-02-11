@@ -3,20 +3,35 @@ Questions
 Problem Statement 1: KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 1.	Sales Overview:
+   
 (a) Year-to-Date (YTD) Total Sales
+
 (b)	Month-to-Date (MTD) Total Sales
+
 (c)	Year-over-Year (YOY) Growth in Total Sales
+
 (d)	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-2.	Average Price Analysis:
+
+3.	Average Price Analysis:
+   
 (a)	YTD Average Price
+
 (b)	MTD Average Price
+
 (c)	YOY Growth in Average Price
+
 (d)	Difference between YTD Average Price and PTYD Average Price
-3.	Cars Sold Metrics:
+
+5.	Cars Sold Metrics:
+   
 (a)	YTD Cars Sold
+
 (b)	MTD Cars Sold
+
 (c)	YOY Growth in Cars Sold
+
 (d)	Difference between YTD Cars Sold and PTYD Cars Sold
+
 Problem Statement 2: Charts Requirement
 
 1.	YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
@@ -30,26 +45,26 @@ Problem Statement 2: Charts Requirement
 Key Insights from the Dashboard
 1. Sales Performance Analysis
    
-(a)✅ YTD Total Sales: $371.2M, with a 23.59% growth ($70.8M increase).
+✅ YTD Total Sales: $371.2M, with a 23.59% growth ($70.8M increase).
 
-(b)✅ YTD Cars Sold: 13.3K units, growing 24.57% (2.62K additional cars).
+✅ YTD Cars Sold: 13.3K units, growing 24.57% (2.62K additional cars).
 
-(c)✅ YTD Avg Price: 28.09K, showing a slight decline (-0.79%).
+✅ YTD Avg Price: 28.09K, showing a slight decline (-0.79%).
 
 2. Trends & Patterns
    
-(a)📈 Sales Weekly Trend: Peaks at 14.9M, indicating seasonal sales fluctuations.
+📈 Sales Weekly Trend: Peaks at 14.9M, indicating seasonal sales fluctuations.
 
-(b)📌 Top-Selling Body Styles: SUV and Sedan dominate sales.
+📌 Top-Selling Body Styles: SUV and Sedan dominate sales.
 
-(c)🎨 Most Popular Colors: Pale White & Black lead, with Red being the least preferred.
+🎨 Most Popular Colors: Pale White & Black lead, with Red being the least preferred.
 
 
 3. Dealer & Regional Sales
    
-(a)🌎 Top Regions: Austin, Greenville, and Scottsdale are key markets.
+🌎 Top Regions: Austin, Greenville, and Scottsdale are key markets.
 
-(b)🏢 Company-Wise Sales: Chevrolet leads with 1,043 units sold and $27.1M revenue.
+🏢 Company-Wise Sales: Chevrolet leads with 1,043 units sold and $27.1M revenue.
 
 
 Final Conclusion
