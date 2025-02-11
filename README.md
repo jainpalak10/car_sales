@@ -29,18 +29,28 @@ Problem Statement 2: Charts Requirement
 
 Key Insights from the Dashboard
 1. Sales Performance Analysis
+2. 
 (a)✅ YTD Total Sales: $371.2M, with a 23.59% growth ($70.8M increase).
+
 (b)✅ YTD Cars Sold: 13.3K units, growing 24.57% (2.62K additional cars).
+
 (c)✅ YTD Avg Price: 28.09K, showing a slight decline (-0.79%).
 
-2. Trends & Patterns
+4. Trends & Patterns
+5. 
 (a)📈 Sales Weekly Trend: Peaks at 14.9M, indicating seasonal sales fluctuations.
+
 (b)📌 Top-Selling Body Styles: SUV and Sedan dominate sales.
+
 (c)🎨 Most Popular Colors: Pale White & Black lead, with Red being the least preferred.
 
-3. Dealer & Regional Sales
+
+7. Dealer & Regional Sales
+8. 
 (a)🌎 Top Regions: Austin, Greenville, and Scottsdale are key markets.
+
 (b)🏢 Company-Wise Sales: Chevrolet leads with 1,043 units sold and $27.1M revenue.
+
 
 Final Conclusion
 (a)🔹 The car sales industry is experiencing positive growth, with an increase in sales volume and revenue.
