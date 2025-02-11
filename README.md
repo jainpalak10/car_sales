@@ -5,31 +5,22 @@ The dashboard should provide real-time insights into key performance indicators 
 1.	Sales Overview:
    
 (a) Year-to-Date (YTD) Total Sales
-
 (b)	Month-to-Date (MTD) Total Sales
-
 (c)	Year-over-Year (YOY) Growth in Total Sales
-
 (d)	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
-3.	Average Price Analysis:
+2.	Average Price Analysis:
    
 (a)	YTD Average Price
-
 (b)	MTD Average Price
-
 (c)	YOY Growth in Average Price
-
 (d)	Difference between YTD Average Price and PTYD Average Price
 
-5.	Cars Sold Metrics:
+3.	Cars Sold Metrics:
    
 (a)	YTD Cars Sold
-
 (b)	MTD Cars Sold
-
 (c)	YOY Growth in Cars Sold
-
 (d)	Difference between YTD Cars Sold and PTYD Cars Sold
 
 Problem Statement 2: Charts Requirement
